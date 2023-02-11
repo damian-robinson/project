@@ -30,7 +30,7 @@ Use Python, Pandas, and various APIs to aggregate and analyze crypto and stock p
 - [Kaggle](https://www.kaggle.com/)
 - [Data.gov](https://www.data.gov/)
 - [Awesome](https://github.com/awesomedata/awesome-public-datasets)
-- [Public-APIs]https://github.com/n0shake/Public-APIs()
+- [Public-APIs](https://github.com/n0shake/Public-APIs()
 - [Awesome API](https://github.com/Kikobeats/awesome-api)
 - [Medium API](https://benjamin-libor.medium.com/a-curated-collection-of-over-150-apis-to-build-great-products-fdcfa0f361bc)
 
