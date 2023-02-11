@@ -18,7 +18,9 @@ Use Python, Pandas, and various APIs to aggregate and analyze crypto and stock p
 - [ ]  Choose APIs to be used.
 - [ ]  Create and prepare datasets.
 - [ ]  Create data visualizations.
-- [ ]  Create analysis for investment predictions.
+- [ ]  Create analysis for investment predictions by 2/22/23.
+- [ ]  Execute class presentation on 2/23/23.
+- [ ]  Submit project on 2/23/23.
 
 ---
 
