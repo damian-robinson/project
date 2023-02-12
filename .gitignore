@@ -1,2 +1,5 @@
 # ignore .env files
 .env
+
+# ignore .ipynb_checkpoint files
+.ipynb_checkpoints
