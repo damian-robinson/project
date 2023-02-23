@@ -7,33 +7,12 @@
 
 ## Objective
 
-Use Python, Pandas, and various APIs to aggregate and analyze crypto and stock performance data from 2020 into 2023 to create a solid prediction for future investment opportunities.
+Use Python, Pandas, and various APIs to aggregate and analyze crypto and stock performance data from 2020 into 2023 to determine whether or not it's a good time for our client to add crypto to their portfolio.
 
----
+## Methods
 
-## RoadMap
-
-- [x]  Create project GitHub repository.
-- [ ]  Choose stock & crypto assets to analyze.
-- [ ]  Choose APIs to be used.
-- [ ]  Create and prepare datasets.
-- [ ]  Create data visualizations.
-- [ ]  Create analysis for investment predictions by 2/22/23.
-- [ ]  Execute class presentation on 2/23/23.
-- [ ]  Submit project on 2/23/23.
-
----
-
-## Links
-
-- [GitHub Repo](https://github.com/damian-robinson/project)
-- [Alpaca API](https://www.notion.so/ProjectOne-3e34d9d8df7449e4b0e82d25c183be05)
-- [Data.World](https://www.data.world/)
-- [Kaggle](https://www.kaggle.com/)
-- [Data.gov](https://www.data.gov/)
-- [Awesome](https://github.com/awesomedata/awesome-public-datasets)
-- [Public-APIs](https://github.com/n0shake/Public-APIs)
-- [Awesome API](https://github.com/Kikobeats/awesome-api)
-- [Medium API](https://benjamin-libor.medium.com/a-curated-collection-of-over-150-apis-to-build-great-products-fdcfa0f361bc)
+- Performance Analysis
+- Risk Classification
+- Sentiment Analysis.
 
 ---
