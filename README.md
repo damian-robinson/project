@@ -7,12 +7,16 @@
 
 ## Objective
 
-Use Python, Pandas, and various APIs to aggregate and analyze crypto and stock performance data from 2020 into 2023 to determine whether or not it's a good time for our client to add crypto to their portfolio.
+Use Python with various modules, libraries, and APIs to aggregate and analyze crypto and stock performance data from 2022 into 2023 to determine whether or not it's a good time for our client to add crypto to their portfolio.
 
 ## Methods
 
-- Performance Analysis
+- Technical Analysis
 - Risk Classification
-- Sentiment Analysis.
+- Sentiment Analysis
 
 ---
+
+## Summary
+
+We begin by analyzing the historical performance data from 2022 into 2023 pulled using the Historical_Data API. Following this, we simulate a portfolio investing $10k at the beginning of the year to verify performance. After we have a sense of market performance, the portfolio is assigned a risk profile that can be checked against our client's risk tolerance. Finally, we analyze current market sentiment and gauge the confidence levels of traders and investors for the crypto and stock markets.
