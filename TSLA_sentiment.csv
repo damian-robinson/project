@@ -1,0 +1,16 @@
+Years,Month,ticker,Average sentiment
+2022,Jan,TSLA,1
+2022,Feb,TSLA,1
+2022,Mar,TSLA,2
+2022,Apr,TSLA,1
+2022,May,TSLA,1
+2022,Jun,TSLA,1
+2022,Jul,TSLA,2
+2022,Aug,TSLA,3
+2022,Sep,TSLA,0
+2022,Oct,TSLA,1
+2022,Nov,TSLA,0
+2022,Dec,TSLA,-2
+2023,Jan,TSLA,-2
+2023,Feb,TSLA,-1
+,,,

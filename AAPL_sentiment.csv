@@ -1,0 +1,15 @@
+Years,date,ticker,Average sentiment
+2022,Jan,AAPL,1
+2022,Feb,AAPL,-2
+2022,Mar,AAPL,-2
+2022,Apr,AAPL,-4
+2022,May,AAPL,-2
+2022,Jun,AAPL,3
+2022,Jul,AAPL,1
+2022,Aug,AAPL,0
+2022,Sep,AAPL,-4
+2022,Oct,AAPL,-4
+2022,Nov,AAPL,-4
+2022,Dec,AAPL,-4
+2023,Jan,AAPL,2
+2023,Feb,AAPL,3
