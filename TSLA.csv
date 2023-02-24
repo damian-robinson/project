@@ -1,0 +1,13 @@
+﻿Month,Ticker,Year,Average TSLA sentiment,Sum of TSLA_close
+January,TSLA,2022,1,1010.17
+February,TSLA,2022,1,878.94
+March,TSLA,2022,2,915.93
+April,TSLA,2022,1,997.37
+May,TSLA,2022,1,764.82
+June,TSLA,2022,1,702.93
+July,TSLA,2022,2,754.18
+August,TSLA,2022,3,760.93
+September,TSLA,2022,0,288.73
+October,TSLA,2022,1,223.81
+November,TSLA,2022,0,191.25
+December,TSLA,2022,-2,152.97
