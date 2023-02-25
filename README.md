@@ -22,3 +22,26 @@ Use Python with various modules, libraries, and APIs to aggregate and analyze cr
 We begin by analyzing the historical performance data from 2022 into 2023 pulled using the [Historic_Crypto API](https://pypi.org/project/Historic-Crypto/). Next, we simulate a portfolio investing $10k at the beginning of 2023 to verify performance. After we have a sense of market performance, the portfolio is assigned a risk profile that can be checked against our client's risk tolerance. Finally, we analyze current market sentiment and gauge confidence levels for the crypto and stock markets.
 
 Moving forward, we would expand with ML, AI, and additional analyses to bring it up to speed with today's advancements.
+
+---
+
+## Usage
+
+### Crypto Analysis
+To set up for historical performance data analysis, modify the:
+
+- ticker variables, timeframe, and dates
+- column slice selection(s)
+- index name
+- info calculations
+- stock data (csv import path)
+- initial investment amount
+- weights
+
+
+### Risk Profiling
+To set up for asset risk profile assignment, ... :
+
+
+### Sentiment Analysis
+To set up for sentiment analysis, ... :
